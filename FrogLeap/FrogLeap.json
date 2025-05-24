@@ -1,0 +1,239 @@
+[
+  {
+    "id": "_meta",
+    "name": "Frog Leap",
+    "author": "HD"
+  },
+  {
+    "id": "icon_01",
+    "image": "https://happydeathhd.github.io/my-icons/FrogLeap/icon_01.png",
+    "reminders": [
+      "Одинаковый",
+      "Одинаковый",
+      "Разный"
+    ],
+    "name": "Типичная Вобла",
+    "team": "townsfolk",
+    "ability": "Вступление: узнает, что ровно 2 из 3 игроков одного типа.",
+    "firstNight": 5
+  },
+  {
+    "id": "icon_02",
+    "image": "https://happydeathhd.github.io/my-icons/FrogLeap/icon_02.png",
+    "reminders": [
+      "Отравлен"
+    ],
+    "name": "Микропахицефалозавр",
+    "team": "townsfolk",
+    "ability": "В первый день: публично выберите роль приспешника. вы получаете её способность. Приспешник, обладающий ей - отравлен",
+    "otherNight": 1
+  },
+  {
+    "id": "icon_03",
+    "image": "https://happydeathhd.github.io/my-icons/FrogLeap/icon_03.png",
+    "reminders": [
+      "Казнен"
+    ],
+    "name": "Японский Хомяк",
+    "team": "townsfolk",
+    "ability": "Если вас казнили, ночью вы просыпаетесь и узнаете роль выбранного игрока.",
+    "otherNight": 15
+  },
+  {
+    "id": "icon_04",
+    "image": "https://happydeathhd.github.io/my-icons/FrogLeap/icon_04.png",
+    "reminders": [
+      "Потрачено",
+      "Выбран"
+    ],
+    "setup": true,
+    "name": "Городской Ёж",
+    "team": "townsfolk",
+    "ability": "Один раз за игру, днем: публично выберите игрока. Если этот игрок – Изгой, он получит роль одного из живых Горожан. [+1 Изгой]"
+  },
+  {
+    "id": "icon_05",
+    "image": "https://happydeathhd.github.io/my-icons/FrogLeap/icon_05.png",
+    "name": "Добрососедская Крыса",
+    "team": "townsfolk",
+    "ability": "Вместо вас может умереть ваш живой сосед."
+  },
+  {
+    "id": "icon_06",
+    "image": "https://happydeathhd.github.io/my-icons/FrogLeap/icon_06.png",
+    "name": "Бинарный Попугай",
+    "team": "townsfolk",
+    "ability": "Каждую ночь: вы узнаете, на одной ли стороне соседи.",
+	 "firstNight": 21,
+    "otherNight": 21
+  },
+  {
+    "id": "icon_07",
+    "image": "https://happydeathhd.github.io/my-icons/FrogLeap/icon_07.png",
+    "name": "Зелёная Кваква",
+    "team": "townsfolk",
+    "ability": "Вступление: выберите игрока. Каждую ночь*: вы узнаете количество шагов от него до злого игрока.",
+    "otherNight": 24
+  },
+  {
+    "id": "icon_08",
+    "image": "https://happydeathhd.github.io/my-icons/FrogLeap/icon_08.png",
+    "reminders": [
+      "Пьян"
+    ],
+    "name": "Бесстрашный Медоед",
+    "team": "townsfolk",
+    "ability": "Каждую ночь: если оба соседа злые — вы узнаете Демона. Иначе вы пьяны.",
+    "firstNight": 23,
+    "otherNight": 23
+  },
+  {
+    "id": "icon_09",
+    "image": "https://happydeathhd.github.io/my-icons/FrogLeap/icon_09.png",
+    "reminders": [
+      "Казнен"
+    ],
+    "name": "Цирковой Волк",
+    "team": "townsfolk",
+    "ability": "Каждую ночь*: узнаете количество шагов от казненного сегодня игрока до Приспешника.",
+    "otherNight": 26
+  },
+  {
+    "id": "icon_10",
+    "image": "https://happydeathhd.github.io/my-icons/FrogLeap/icon_10.png",
+    "reminders": [
+      "Демон пересел",
+      "Демон не пересел"
+    ],
+    "name": "Летучая Мышь",
+    "team": "townsfolk",
+    "ability": "Каждую ночь*: узнаете, пересаживался ли демон.",
+    "otherNight": 18
+  },
+  {
+    "id": "icon_11",
+    "image": "https://happydeathhd.github.io/my-icons/FrogLeap/icon_11.png",
+    "name": "Затаившийся тигр",
+    "team": "townsfolk",
+    "ability": "Перед ночью: если сосед справа — Демон, он умирает.",
+    "otherNight": 1
+  },
+  {
+    "id": "icon_12",
+    "image": "https://happydeathhd.github.io/my-icons/FrogLeap/icon_12.png",
+    "name": "Голодная Свинья",
+    "team": "townsfolk",
+    "ability": "Каждую ночь*: если оба соседа мертвы — вы узнаете, с какой стороны находится ближайший к вам злой игрок. При равном удалении направление произвольно.",
+    "otherNight": 17
+  },
+  {
+    "id": "icon_13",
+    "image": "https://happydeathhd.github.io/my-icons/FrogLeap/icon_13.png",
+    "reminders": [
+      "Может менять"
+    ],
+    "name": "Хайповая Гидра",
+    "team": "townsfolk",
+    "ability": "Если вы умираете ночью, все игроки узнают об этом. Впредь вы можете менять 2 игроков местами после результатов казней"
+  },
+  {
+    "id": "icon_14",
+    "image": "https://happydeathhd.github.io/my-icons/FrogLeap/icon_14.png",
+    "name": "Шурумбумный Окапи",
+    "team": "outsider",
+    "ability": "Определяется как мертвый демон (Кроме условий победы и голосований)"
+  },
+  {
+    "id": "icon_15",
+    "image": "https://happydeathhd.github.io/my-icons/FrogLeap/icon_15.png",
+    "name": "Жертвенная Корова",
+    "team": "outsider",
+    "ability": "Если ваш сосед — Демон и вы умираете ночью, — ваша команда проигрывает."
+  },
+  {
+    "id": "icon_16",
+    "image": "https://happydeathhd.github.io/my-icons/FrogLeap/icon_16.png",
+    "name": "Весёлый Додо",
+    "team": "outsider",
+    "ability": "Если вас казнили в первый или второй день — вы меняете команду, и эта команда побеждает."
+  },
+  {
+    "id": "icon_17",
+    "image": "https://happydeathhd.github.io/my-icons/FrogLeap/icon_17.png",
+    "name": "Потерянный Варан",
+    "team": "outsider",
+    "ability": "Если умирает Приспешник, вы становитесь злым Приспешником.",
+    "otherNight": 2
+  },
+  {
+    "id": "icon_18",
+    "image": "https://happydeathhd.github.io/my-icons/FrogLeap/icon_18.png",
+    "reminders": [
+      "Отравлен",
+      "Отравлен"
+    ],
+    "name": "Бр Бр Патапим",
+    "team": "minion",
+    "ability": "Оба соседа отравлены."
+  },
+  {
+    "id": "icon_19",
+    "image": "https://happydeathhd.github.io/my-icons/FrogLeap/icon_19.png",
+    "reminders": [
+      "Демон возродится"
+    ],
+    "setup": true,
+    "name": "Бонека Амбалабу",
+    "team": "minion",
+    "ability": "Если вас казнили, то в следующий раз, когда умрет демон при >=5 игроках, Приспешник станет Демоном [+1 Изгой]"
+  },
+  {
+    "id": "icon_20",
+    "image": "https://happydeathhd.github.io/my-icons/FrogLeap/icon_20.png",
+    "reminders": [
+      "Отравлен и х10"
+    ],
+    "name": "Лирили Ларила",
+    "team": "minion",
+    "ability": "Один раз за игру, ночью*: выберите игрока он отравлен до следующей ночи. днем все голоса против него будут х10"
+  },
+  {
+    "id": "icon_21",
+    "image": "https://happydeathhd.github.io/my-icons/FrogLeap/icon_21.png",
+    "reminders": [
+      "Не пересаживается"
+    ],
+    "name": "Тун тун тун тун тун тун тун тун тун Сахур",
+    "team": "minion",
+    "ability": "Каждую ночь: выберите игрока. Он не может меняться местами на следующий день."
+  },
+  {
+    "id": "icon_22",
+    "image": "https://happydeathhd.github.io/my-icons/FrogLeap/icon_22.png",
+    "reminders": [
+      "Убит"
+    ],
+    "name": "Бомбардиро Крокодило",
+    "team": "demon",
+    "ability": "Перед ночью: если оба соседа мертвы — ваша команда побеждает. Каждую ночь*: выберите игрока. Он умирает.",
+    "otherNight": 3
+  },
+  {
+    "id": "icon_23",
+    "image": "https://happydeathhd.github.io/my-icons/FrogLeap/icon_23.png",
+    "reminders": [
+      "Убит"
+    ],
+    "name": "Тралалеро Тралала",
+    "team": "demon",
+    "ability": "Перед ночью: если слева от вас находятся подряд все приспешники — ваша команда побеждает. Каждую ночь*: выберите игрока. Он умирает.",
+    "otherNight": 3
+  },
+  {
+	"id":"leap_frog",
+	"image":"https://happydeathhd.github.io/my-icons/FrogLeap/leap_frog.png",
+	"name":"Чехарда",
+	"team":"fabled",
+	"ability":"После того, как игрок номинирует кого-либо, они меняются местами"
+	}
+]
